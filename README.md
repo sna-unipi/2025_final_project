@@ -1,11 +1,11 @@
-# 2021 Final Project
+# 2022 Final Project
 
 This is a template repository for the 2021 final project of the Social Network Analysis course at University of Pisa.
 
 ## Instructions
 Upload the code/data in the dedicated folders (one for each part of the project).
 
-For project details refer to the [official assignment description](https://github.com/sna-unipi/2021_final_project/blob/main/Final%20Project%202021.pdf).
+For project details refer to the official assignment description.
 
 Discuss the result of all the analysis in a written report.
 
