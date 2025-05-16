@@ -1,6 +1,6 @@
-# 2024 Final Project
+# 2025 Final Project
 
-This is a template repository for the 2024 final project of the Social Network Analysis course at University of Pisa.
+This is a template repository for the 2025 final project of the Social Network Analysis course at University of Pisa.
 
 ## Instructions
 Upload the code/data in the dedicated folders (one for each part of the project).
